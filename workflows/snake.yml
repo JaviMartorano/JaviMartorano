@@ -18,6 +18,9 @@ jobs:
           github_user_name: JavierMartorano
           outputs: dist/github-snake.svg
 
+      - name: Verificar el Archivo Generado
+        run: ls dist # Este comando imprimirá el contenido del directorio dist para confirmar que el archivo se ha generado
+
       - name: Commit and Push Snake Animation
         run: |
           git config --global user.name "github-actions[bot]"
