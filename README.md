@@ -82,4 +82,11 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<h2 style="font-size: 28px; color: #1f6feb;">🐍 GitHub Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierMartorano/JavierMartorano/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavierMartorano/JavierMartorano/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JavierMartorano/JavierMartorano/output/github-snake.svg" />
+</picture>
+
 <h2 style="font-size: 28px; color: #1f6feb;">🚀 Let's build something amazing together!</h2>
